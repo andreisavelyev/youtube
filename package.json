@@ -1,0 +1,21 @@
+{
+  "name": "youtube-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/app.js",
+  "dependencies": {
+    "babel-loader": "^8.0.4",
+    "eslint": "^5.9.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "webpack-cli": "^3.1.2",
+    "webpack": "^4.26.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "webpack -d"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
